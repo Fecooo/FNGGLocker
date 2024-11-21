@@ -16,6 +16,7 @@ Supports all cosmetic types, including:
 - Festival
 - Rocket Racing
 - LEGO
+- Kicks
 
 Also includes support for:
 
