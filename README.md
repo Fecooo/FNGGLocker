@@ -17,6 +17,7 @@ Supports all cosmetic types, including:
 - Rocket Racing
 - LEGO
 - Kicks
+- Instruments as Pickaxe/Back Bling
 
 Also includes support for:
 
