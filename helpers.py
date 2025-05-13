@@ -37,7 +37,7 @@ def CheckBundle(bundleId, data, profileItems, fnggItems) -> int:
     countOfActual = 0
 
     for i in data['items']:
-        if i.lower() in profileItems:
+        if type(i) is not bool and i.lower() in profileItems:
             countOfActual += 1
 
     if countOfShould == countOfActual:
