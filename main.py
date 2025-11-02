@@ -37,7 +37,8 @@ ACCEPTED_COSMETIC_TYPES = [
     "VehicleCosmetics_Booster",
     "JunoBuildingProp",
     "JunoBuildingSet",
-    "CosmeticShoes"
+    "CosmeticShoes",
+    "CosmeticMimosa"
 ]
 
 class User:
